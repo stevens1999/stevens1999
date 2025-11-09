@@ -18,7 +18,6 @@ Improving my skills in [Express.js, Node.js].
 🚀 Projects
 
 Explore my repositories to see some of my latest work. I enjoy building everything from small interactive components to fully responsive websites.
-
 🔭 I’m currently working on improving my prtfolio website (FUSE)
 
 📫 Connect with Me
