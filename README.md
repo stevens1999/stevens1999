@@ -1,4 +1,4 @@
-## Hi there, I'm Steven Tariah 👋
+# Hi there, I'm Steven Tariah 👋
 
 🌐 Frontend Developer | Web Enthusiast
 
